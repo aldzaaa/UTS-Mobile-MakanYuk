@@ -13,7 +13,7 @@ Mahasiswa: Aldza Salwatul Aisy / 240605110227.
 - [x] Pengujian unit/widget dan build APK debug.
 - [ ] Backend live Google Places dan kredensial sah (bukan kewajiban UTS awal).
 - [ ] Isi kelas serta lengkapi fakultas/logo resmi pada laporan.
-- [x] Source diunggah ke [aldzaaa/MakanYuk-Malang](https://github.com/aldzaaa/MakanYuk-Malang), branch main.
+- [x] Source diunggah ke [aldzaaa/UTS-Mobile-MakanYuk](https://github.com/aldzaaa/UTS-Mobile-MakanYuk), branch main.
 - [ ] Unggah PDF ke Google Drive dan catat tautan.
 
 Tidak ada fitur login, checkout, pembayaran, chatbot, admin atau delivery.

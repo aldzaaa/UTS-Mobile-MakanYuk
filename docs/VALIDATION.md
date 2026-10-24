@@ -49,7 +49,7 @@ APK dan screenshot tersebut belum dibangun/diambil ulang pada perubahan ini.
 - Screenshot laporan perlu diperbarui untuk katalog terbaru.
 - Kelas, fakultas, kampus dan logo resmi masih perlu dilengkapi pada Markdown
   laporan lalu PDF dibuat ulang; PDF terbaru tidak memiliki field formulir interaktif.
-- Source sudah diunggah ke https://github.com/aldzaaa/MakanYuk-Malang
+- Source sudah diunggah ke https://github.com/aldzaaa/UTS-Mobile-MakanYuk
   pada branch main. PDF belum diunggah ke Google Drive.
 - Flutter doctor mendeteksi sebagian lisensi Android belum diterima;
   toolchain Visual Studio untuk Windows terdeteksi siap.

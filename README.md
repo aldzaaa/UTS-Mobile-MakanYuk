@@ -1,9 +1,9 @@
-# MakanYuk Malang
+# MakanYuk Malang — UTS-Mobile-MakanYuk
 
 **Jelajahi Rasa, Temukan Cerita.** Aplikasi Flutter eksplorasi kuliner Kota Malang
 untuk UTS Mobile Programming. Dibuat untuk Aldza Salwatul Aisy (240605110227).
 
-Repository: [aldzaaa/MakanYuk-Malang](https://github.com/aldzaaa/MakanYuk-Malang).
+Repository: [aldzaaa/UTS-Mobile-MakanYuk](https://github.com/aldzaaa/UTS-Mobile-MakanYuk).
 Target utama adalah Android; aplikasi juga dapat dijalankan sebagai desktop Windows
 atau preview web dari source Flutter yang sama. Tidak memerlukan login.
 
@@ -14,8 +14,8 @@ dengan workload **Desktop development with C++**. Visual Studio Code saja tidak
 menyediakan compiler desktop Windows.
 
 ```sh
-git clone https://github.com/aldzaaa/MakanYuk-Malang.git
-cd MakanYuk-Malang
+git clone https://github.com/aldzaaa/UTS-Mobile-MakanYuk.git
+cd UTS-Mobile-MakanYuk
 flutter doctor
 flutter pub get
 flutter run -d windows --no-enable-impeller
@@ -188,7 +188,7 @@ Hasil yang benar-benar dijalankan dicatat di [docs/VALIDATION.md](docs/VALIDATIO
 Desain mandiri dan perbandingan implementasi: [docs/UI_DESIGN.md](docs/UI_DESIGN.md).
 Laporan memuat identitas Aldza Salwatul Aisy dan NIM 240605110227.
 Kelas diisi sendiri oleh mahasiswa. Logo/fakultas harus dilengkapi dengan identitas resmi.
-Source proyek tersedia pada [repository GitHub](https://github.com/aldzaaa/MakanYuk-Malang).
+Source proyek tersedia pada [repository GitHub](https://github.com/aldzaaa/UTS-Mobile-MakanYuk).
 Folder `build/`, cache Flutter, konfigurasi mesin lokal dan secret tidak disertakan;
 jalankan `flutter pub get` sebelum menjalankan atau membangun aplikasi.
 APK/EXE dibangun sendiri dari source, bukan disimpan di repository. Untuk Windows,
